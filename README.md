@@ -25,7 +25,7 @@ waits for real breaks and holds them with wide stops:
 
 ## Local result (dev window)
 
-Grade-local replay on the kit's frozen 24h dev window: **net PnL +$17.53,
+Grade-local replay on the kit's frozen 24h dev window: **net PnL +$17.52,
 5 trades, max drawdown 2.58%** — clears the dev gate (net PnL > $0).
 
 ## Layout
