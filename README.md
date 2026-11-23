@@ -1,8 +1,8 @@
 # BTC Race Bot — Donchian Breakout + Dip Buy
 
-[![make.fun](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/bounty/btc-race-24h-20261123-0511)
-[![make.fun](https://img.shields.io/badge/make.fun-entry-green)](https://make.fun/bounty/btc-race-24h-20261123-0511)
-[![make.fun](https://img.shields.io/badge/make.fun-cbBTC-orange)](https://make.fun/bounty/btc-race-24h-20261123-0511)
+[![make.fun · btc-race-24h-20261123-0511](https://make.fun/badge/btc-race-24h-20261123-0511.svg)](https://make.fun/bounty/btc-race-24h-20261123-0511?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261123-0511)
+[![rank](https://make.fun/badge/btc-race-24h-20261123-0511/Tayuya69/btc-race-24h-20261123-0511-repo/rank.svg)](https://make.fun/bounty/btc-race-24h-20261123-0511/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261123-0511)
+[![reward](https://make.fun/badge/btc-race-24h-20261123-0511/Tayuya69/btc-race-24h-20261123-0511-repo/reward.svg)](https://make.fun/bounty/btc-race-24h-20261123-0511?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261123-0511)
 
 Entry for the [make.fun bounty "Race a BTC trading bot live for 24 hours"](https://make.fun/bounty/btc-race-24h-20261123-0511): a cbBTC trading bot that races on 1-minute on-chain prices with $1,000 of paper money.
 
